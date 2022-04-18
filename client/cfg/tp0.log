@@ -1,0 +1,69 @@
+[INFO] 17:26:41:704 tp0/(4684:4684): Hola, soy un log
+[INFO] 17:59:13:731 tp0/(5312:5312): Hola, soy un log
+[INFO] 18:01:06:578 tp0/(5354:5354): Hola, soy un log
+[INFO] 18:01:06:578 tp0/(5354:5354): lei la ip:(null) y el puerto:(null)
+
+[INFO] 18:09:49:060 tp0/(5569:5569): Hola, soy un log
+[INFO] 18:09:49:065 tp0/(5569:5569): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 18:23:22:993 tp0/(5724:5724): Hola, soy un log
+[INFO] 18:23:22:997 tp0/(5724:5724): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 18:23:24:636 tp0/(5724:5724): asd
+[INFO] 18:23:28:440 tp0/(5724:5724): prueba2
+[INFO] 18:58:32:279 tp0/(6484:6484): Hola, soy un log
+[INFO] 18:58:32:280 tp0/(6484:6484): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:02:31:136 tp0/(6650:6650): Hola, soy un log
+[INFO] 19:02:31:141 tp0/(6650:6650): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:03:20:941 tp0/(6780:6780): Hola, soy un log
+[INFO] 19:03:20:941 tp0/(6780:6780): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:03:22:951 tp0/(6780:6780): asd
+[INFO] 19:03:23:589 tp0/(6780:6780): asd
+[INFO] 19:42:51:173 tp0/(8382:8382): Hola, soy un log
+[INFO] 19:42:51:174 tp0/(8382:8382): lei la csslave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:42:58:167 tp0/(8382:8382): dasd
+[INFO] 19:42:58:965 tp0/(8382:8382): sad
+[INFO] 19:42:59:722 tp0/(8382:8382): asd
+[INFO] 19:56:28:140 tp0/(8857:8857): Hola, soy un log
+[INFO] 19:56:28:141 tp0/(8857:8857): lei la csslave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:56:31:018 tp0/(8857:8857): asd
+[INFO] 19:56:43:571 tp0/(8857:8857): asdas
+[INFO] 19:56:44:949 tp0/(8857:8857): aksldjl
+[INFO] 13:19:39:457 tp0/(4277:4277): Hola, soy un log
+[INFO] 13:19:39:491 tp0/(4277:4277): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 13:19:43:016 tp0/(4277:4277): hola
+[INFO] 13:33:29:779 tp0/(4610:4610): Hola, soy un log
+[INFO] 13:33:29:780 tp0/(4610:4610): lei la clave:prueba de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 13:33:32:560 tp0/(4610:4610): hola
+[INFO] 13:33:36:640 tp0/(4610:4610): luis
+[INFO] 15:52:33:105 tp0/(7703:7703): Hola, soy un log
+[INFO] 15:52:33:105 tp0/(7703:7703): lei la clave:prueba hola de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 15:52:40:862 tp0/(7703:7703): sd
+[INFO] 19:41:25:405 tp0/(5464:5464): Hola, soy un log
+[INFO] 19:41:25:406 tp0/(5464:5464): lei la clave:prueba hola de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 19:41:30:028 tp0/(5464:5464): sad
+[INFO] 19:41:30:499 tp0/(5464:5464): asd
+[INFO] 20:33:12:877 tp0/(6114:6114): Hola, soy un log
+[INFO] 20:33:12:878 tp0/(6114:6114): lei la clave:prueba hola de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 20:33:21:569 tp0/(6114:6114): asd
+[INFO] 20:33:22:245 tp0/(6114:6114): asd
+[INFO] 20:34:02:697 tp0/(6122:6122): Hola, soy un log
+[INFO] 20:34:02:698 tp0/(6122:6122): lei la clave:prueba hola de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 20:34:03:825 tp0/(6122:6122): asd
+[INFO] 20:34:04:525 tp0/(6122:6122): asd
+[INFO] 21:48:27:938 tp0/(7845:7845): Hola, soy un log
+[INFO] 21:48:27:938 tp0/(7845:7845): lei la clave:prueba hola de la ip:127.0.0.1 en el puerto:4444
+
+[INFO] 21:48:29:601 tp0/(7845:7845): asd
+[INFO] 21:48:31:652 tp0/(7845:7845): jkl

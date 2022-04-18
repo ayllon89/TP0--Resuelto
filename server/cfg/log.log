@@ -1,0 +1,52 @@
+[INFO] 18:57:14:626 Servidor/(6347:6347): Servidor listo para recibir al cliente
+[INFO] 19:02:23:297 Servidor/(6646:6646): Servidor listo para recibir al cliente
+[INFO] 19:02:37:841 Servidor/(6646:6646): Se conecto un cliente!
+[ERROR] 19:02:37:842 Servidor/(6646:6646): el cliente se desconecto. Terminando servidor
+[INFO] 19:03:16:155 Servidor/(6777:6777): Servidor listo para recibir al cliente
+[INFO] 19:03:24:648 Servidor/(6777:6777): Se conecto un cliente!
+[ERROR] 19:03:24:649 Servidor/(6777:6777): el cliente se desconecto. Terminando servidor
+[INFO] 19:54:59:205 Servidor/(8820:8820): Servidor listo para recibir al cliente
+[INFO] 19:56:50:109 Servidor/(8820:8820): Se conecto un cliente!
+[ERROR] 19:56:50:110 Servidor/(8820:8820): el cliente se desconecto. Terminando servidor
+[INFO] 11:32:27:471 Servidor/(4360:4360): Servidor listo para recibir al cliente
+[INFO] 13:19:27:981 Servidor/(4267:4267): Servidor listo para recibir al cliente
+[INFO] 13:19:43:795 Servidor/(4267:4267): Se conecto un cliente!
+[INFO] 13:19:43:796 Servidor/(4267:4267): Me llego el mensaje prueba
+[ERROR] 13:19:43:797 Servidor/(4267:4267): el cliente se desconecto. Terminando servidor
+[INFO] 13:33:23:781 Servidor/(4603:4603): Servidor listo para recibir al cliente
+[INFO] 13:33:37:164 Servidor/(4603:4603): Se conecto un cliente!
+[INFO] 13:33:37:165 Servidor/(4603:4603): Me llego el mensaje prueba
+[INFO] 13:33:56:374 Servidor/(4603:4603): Me llegaron los siguientes valores:
+
+[INFO] 13:33:56:375 Servidor/(4603:4603): luchingo
+[ERROR] 13:33:56:375 Servidor/(4603:4603): el cliente se desconecto. Terminando servidor
+[INFO] 15:52:28:575 Servidor/(7699:7699): Servidor listo para recibir al cliente
+[INFO] 15:52:41:306 Servidor/(7699:7699): Se conecto un cliente!
+[INFO] 15:52:41:307 Servidor/(7699:7699): Me llego el mensaje prueba hola
+[INFO] 15:52:54:601 Servidor/(7699:7699): Me llegaron los siguientes valores:
+
+[INFO] 15:52:54:602 Servidor/(7699:7699): k
+[ERROR] 15:52:54:602 Servidor/(7699:7699): el cliente se desconecto. Terminando servidor
+[INFO] 19:39:36:114 Servidor/(5437:5437): Servidor listo para recibir al cliente
+[INFO] 19:41:31:423 Servidor/(5437:5437): Se conecto un cliente!
+[INFO] 19:41:31:424 Servidor/(5437:5437): Me llego el mensaje prueba hola
+[INFO] 19:52:51:158 Servidor/(5437:5437): Me llegaron los siguientes valores:
+
+[INFO] 19:52:51:159 Servidor/(5437:5437): asd
+[INFO] 19:52:51:159 Servidor/(5437:5437): ad
+[ERROR] 19:52:51:159 Servidor/(5437:5437): el cliente se desconecto. Terminando servidor
+[INFO] 20:33:02:516 Servidor/(6108:6108): Servidor listo para recibir al cliente
+[INFO] 20:33:28:144 Servidor/(6108:6108): Se conecto un cliente!
+[INFO] 20:33:28:144 Servidor/(6108:6108): Me llego el mensaje prueba hola
+[INFO] 20:34:42:015 Servidor/(6108:6108): Me llegaron los siguientes valores:
+
+[INFO] 20:34:42:016 Servidor/(6108:6108): df
+[ERROR] 20:34:42:016 Servidor/(6108:6108): el cliente se desconecto. Terminando servidor
+[INFO] 21:48:16:853 Servidor/(7843:7843): Servidor listo para recibir al cliente
+[INFO] 21:48:31:964 Servidor/(7843:7843): Se conecto un cliente!
+[INFO] 21:48:31:965 Servidor/(7843:7843): Me llego el mensaje prueba hola
+[INFO] 21:48:39:439 Servidor/(7843:7843): Me llegaron los siguientes valores:
+
+[INFO] 21:48:39:441 Servidor/(7843:7843): jkhj
+[INFO] 21:48:39:441 Servidor/(7843:7843): hk
+[ERROR] 21:48:39:441 Servidor/(7843:7843): el cliente se desconecto. Terminando servidor
